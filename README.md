@@ -1,3 +1,5 @@
+<p align="center"><a href="https://discord.com/invite/dsvFgDTr6c"><img height="60px" src="https://user-images.githubusercontent.com/31022056/158916278-4504b838-7ecb-4ab9-a900-7dc002aade78.png" alt="Join our Discord!"></a></p>
+
 # Better Auth Next.js Starter (Pages Router)
 
 [Demo](https://nextjs-pages.better-auth-starter.com)
